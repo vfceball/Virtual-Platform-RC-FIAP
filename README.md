@@ -1,0 +1,2 @@
+# Virtual-Platform-RC-FIAP
+The virtual platform RC-FIAP is developed (initially focused on RC frames) to conceive and automatically analyze, design, and construct an inelastic model to perform non-linear static- and dynamic analysis. The core of the platform is OpenSeesPy [2], which extends the known capabilities of the OpenSees engine, by coupling it with Python, a language of simple programming structure, including graphical interfaces
